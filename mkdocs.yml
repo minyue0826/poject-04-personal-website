@@ -1,5 +1,5 @@
 site_name: "阅读分享基地"
-site_url: "https://minyue0826.github.io/project-04-personal-website1/"
+site_url: !ENV [SITE_URL, "https://minyue0826.github.io/poject-04-personal-website/"]
 
 copyright: "Copyright &copy; 2026 王昊月 任艺翔 宋丹阳 石岩松 | 基于 MkDocs 构建的个人主页"
 
